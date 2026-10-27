@@ -1,0 +1,15 @@
+# Archivos generados por Maven
+target/
+# Configuración local de IntelliJ
+.idea/
+*.iml
+# Archivos temporales
+*.log
+.DS_Store
+Thumbs.db
+# Entornos Python
+__pycache__/
+.venv/
+# Archivos con información sensible
+.env
+.env.*
